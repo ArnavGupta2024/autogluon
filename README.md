@@ -11,6 +11,11 @@ AutoGluon automates machine learning tasks enabling you to easily achieve strong
 # Without --no-cache-dir, smaller aws instances may have trouble installing
 ```
 
+### AutoGluon Tasks
+* Tabular
+* Time Series
+* Multimodal
+
 ### Datasets Used
 [Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand/data)
 
